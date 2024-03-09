@@ -1,2 +1,3 @@
-sudo pwd
-echo "Hello & welcome to Jenkins and GitHub Integration"
+#!/bin/bash
+
+echo "hello, today is $(date)"
